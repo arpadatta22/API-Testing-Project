@@ -1,13 +1,13 @@
-POST Method: Create Access Student
+	POST Method: Create Access Student
 
-GET Method: Get Student Data
+	GET Method: Get Student Data
 
-PUT Method: Update Student Data
+	PUT Method: Update Student Data
 
-GET Method: Specific Student Data
+	GET Method: Specific Student Data
 
-POST Method: Create Student Address
+	POST Method: Create Student Address
 
-GET Method: Final Student Address
+	GET Method: Final Student Address
 
-DELETE Method: Delete Student
+	DELETE Method: Delete Student
